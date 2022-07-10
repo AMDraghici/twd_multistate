@@ -1,5 +1,5 @@
 # New abundance and survival estimates for the critically endangered Taiwanese white dolphin indicate no signs of recovery
-# Authors: Claryana Araújo-Wang, John Y. Wang, Alexandru Marian Draghici, Peter S. Ross, Simon J. Bonner
+## Authors: Claryana Araújo-Wang, John Y. Wang, Alexandru Marian Draghici, Peter S. Ross, Simon J. Bonner
 
 The `R` code in this repository was used to conduct the statistical analysis for the article "New abundance and survival estimates for the critically endangered Taiwanese white dolphin indicate no signs of recovery". 
 
